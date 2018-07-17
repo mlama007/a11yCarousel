@@ -1,0 +1,23 @@
+button {
+    display: inline-block;
+    width: 10px;
+    height: 15px;
+    border: 1px solid black;
+    border-radius: 10px;
+    cursor: pointer;
+    background-color: #000 \9;
+    background-color: transparent;
+}
+
+button[aria-selected="true"] {
+    outline: none;
+    background-color: black;
+}
+
+button[aria-selected="true"]:focus {
+    box-shadow: 0 0 8px black;
+}
+
+[role="tabpanel"]{
+    height: 350px;
+}
