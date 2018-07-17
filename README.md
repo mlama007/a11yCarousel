@@ -1,6 +1,6 @@
 # ***Carousel***
 
-https://mlama007.github.io/a11yTabs/
+https://mlama007.github.io/a11yCarousel/
 
 ### [Accessible Carousel](https://codepen.io/mlama007/pen/JBKbdZ) 
 * Carousels use the same concept as Tabs
